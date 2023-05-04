@@ -7,5 +7,6 @@ Avec les expressions régulières, le mot de passe doit comporter obligatoiremen
 * Des caractères spéciaux
 * Des chiffres  
 
-Page de connexion
+Page de connexion  
+
 ![connexion](profile/img/1.jpg) 
